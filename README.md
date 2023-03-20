@@ -1,5 +1,5 @@
-# classification_python
-Лабораторная №2 вариант лабораторной из задачника №3  по курсу Анализ информационных технологий (ИТ-2 МО)
+# Классификация Лабораторная №2 вариант лабораторной из задачника №3
+по курсу Анализ информационных технологий (ИТ-2 МО)
 Задачник: https://moodle.uniyar.ac.ru/pluginfile.php/321959/mod_resource/content/0/python_labs_classification.pdf
 лог:
 Model: "sequential"
