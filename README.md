@@ -3,6 +3,6 @@
 Задачник: https://moodle.uniyar.ac.ru/pluginfile.php/321960/mod_resource/content/0/python_labs_graphics.pdf
 
 ### Зависимость уменьшения ошибок распознавания, от продолжения обучения  
-![alt text](https://github.com/aiserrock/classification_python/blob/master/epoch_losses.jpg) 
+![alt text](https://github.com/aiserrock/classification_python/blob/main/epoch_losses.jpg) 
 ### Зависимость повышения точности распознавания, от продолжения обучения  
-![alt text](https://github.com/aiserrock/classification_python/blob/master/epoch_acc.jpg) 
+![alt text](https://github.com/aiserrock/classification_python/blob/main/epoch_acc.jpg) 
